@@ -57,7 +57,7 @@ const giovanna = {
 
 ## 📬 Contato
 
-Email: barongiovanna@gmail.com
+Email: barongiovanna10@gmail.com
 
 <br/>
 
