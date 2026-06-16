@@ -1,17 +1,18 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F778A1&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+a+Giovanna!+%F0%9F%91%8B;Criando+coisas+bonitas+na+web+%F0%9F%8C%B8;Front-end+em+constante+evolu%C3%A7%C3%A3o+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A9B7C6&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+a+Giovanna+%F0%9F%91%8B;Dev+em+constante+evolu%C3%A7%C3%A3o+%F0%9F%9A%80;Sempre+aprendendo%2C+sempre+construindo+%F0%9F%94%A8" alt="Typing SVG" />
 </div>
+<br/>
 
 <br/>
 
-## 🌸 Quem sou eu?
+##  👩‍💻 Sobre mim
 
 ```js
 const giovanna = {
-  foco:       "Front-end",
-  mood:       "sempre aprendendo algo novo ✨",
-  atualmente: ["React", "JavaScript", "CSS bonito demais"],
-  superpower: "transformar design em código 🎨",
+  status:     "em evolução constante",
+  foco:       "construir, aprender e melhorar",
+  atualmente: ["React", "JavaScript", "CSS"],
+  mentalidade: "cada projeto é uma oportunidade de crescer",
 };
 ```
 
